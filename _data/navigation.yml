@@ -1,19 +1,16 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "Libri"
     url: /publications/
 
-  - title: "Talks"
+  - title: "Rappresentanza"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "Politica"
     url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "Interviste"
     url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
     
   - title: "CV"
     url: /cv/
