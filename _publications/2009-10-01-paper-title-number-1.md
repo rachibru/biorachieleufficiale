@@ -5,7 +5,7 @@ permalink: /publication/rinascita-dalle-ombre
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-08-20
 venue: 'Book'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://www.amazon.it/Rinascita-dalle-Ombre-avversit%C3%A0-cambiamento-ebook/dp/B0CG6MMSBQ)'
 citation: 'Bruno Rachiele. (2023). &quot;Rinascita dalle Ombre&quot; <i>Independently</i>. 1(1).'
 ---
 
