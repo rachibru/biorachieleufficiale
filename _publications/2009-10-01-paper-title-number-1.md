@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "Rinascita dalle Ombre"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/rinascita-dalle-ombre
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+date: 2023-08-20
+venue: 'Book'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Bruno Rachiele. (2023). &quot;Rinascita dalle Ombre&quot; <i>Independently</i>. 1(1).'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+"Rinascita dalle Ombre" è la storia avvincente di Jake, un giovane intrappolato nella spirale della dipendenza da droghe. Attraverso momenti di disperazione e auto-scoperta, Jake lotta per uscire dall'oscurità in cui è caduto e per trovare una via verso la guarigione e la rinascita. Guidato da un profondo desiderio di cambiamento, Jake si unisce a un gruppo di sostegno e intraprende un viaggio di recupero che lo porterà a sperimentare momenti di debolezza, ma anche di trionfo. Con il supporto dei suoi amici e la sua crescente determinazione, Jake affronta le sue paure e le tentazioni, superando ostacoli e sfide. Nel corso della storia, emerge un messaggio di speranza e resilienza mentre Jake trova il coraggio di affrontare il suo passato, riconnettersi con se stesso e costruire un nuovo futuro. "Rinascita dalle Ombre" racconta il potere della volontà umana nel superare le avversità e ispirare il cambiamento, dimostrando che anche dalle situazioni più buie può emergere la luce della speranza e della rinascita.
