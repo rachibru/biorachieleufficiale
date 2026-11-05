@@ -7,7 +7,7 @@ title_separator         : "-"
 name                    : &name "Bruno Rachiele"
 description             : &description "Sito personale di Bruno Rachiele, studente di Giurisprudenza"
 url                     : "https://rachibru.github.io"
-baseurl                 : "/lavorieprove" # Rimuovi "/lavorieprove" e lascia "" se il repository principale si chiama rachibru.github.io
+baseurl                 : "/biorachieleufficiale" # Rimuovi "/lavorieprove" e lascia "" se il repository principale si chiama rachibru.github.io
 repository              : "rachibru/lavorieprove"
 
 # Site Author
