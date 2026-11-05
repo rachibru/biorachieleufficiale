@@ -1,7 +1,7 @@
 ---
-layout: about
+layout: single
 title: "Bruno Rachiele"
-permalink: /biorachieleufficiale
+permalink: /
 author_profile: true
 ---
 
