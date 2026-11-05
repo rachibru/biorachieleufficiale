@@ -1,19 +1,16 @@
-# main links links
+# main links
 main:
+  - title: "Chi sono"
+    url: /
   - title: "Libri"
-    url: https://rachibru.github.io/publications/
-
+    url: /libri/
   - title: "Rappresentanza"
-    url: https://rachibru.github.io/talks/    
-
+    url: /rappresentanza/
   - title: "Politica"
-    url: https://rachibru.github.io/teaching/    
-    
+    url: /politica/
   - title: "Interviste"
-    url: https://rachibru.github.io/portfolio/
-    
+    url: /interviste/
   - title: "CV"
-    url: https://rachibru.github.io/cv/
-    
+    url: /cv/
   - title: "Guide"
-    url: https://rachibru.github.io/markdown/
+    url: /guide/
