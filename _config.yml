@@ -8,7 +8,7 @@ name                    : &name "Bruno Rachiele"
 description             : &description "Sito personale di Bruno Rachiele, studente di Giurisprudenza"
 url                     : "https://rachibru.github.io"
 baseurl                 : "/biorachieleufficiale" # Rimuovi "/lavorieprove" e lascia "" se il repository principale si chiama rachibru.github.io
-repository              : "rachibru/lavorieprove"
+repository              : "rachibru/biorachieleufficiale"
 
 # Site Author
 author:
@@ -24,7 +24,7 @@ author:
 
   # Academic websites
   arxiv                 : 
-  googlescholar         : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar         : 
   impactstory           : 
   orcid                 : 
   pubmed                : 
@@ -34,18 +34,18 @@ author:
   bitbucket             : 
   codepen               : 
   dribbble              : 
-  github                : "rachibru"
+  github                : 
   kaggle                : 
   stackoverflow         : 
 
   # Social media
   bluesky               : 
-  facebook              : 
-  instagram             : 
-  linkedin              : # es. "bruno-rachiele"
+  facebook              : "rachielebruno"
+  instagram             : "rachielebruno_ufficiale"
+  linkedin              : 
   mastodon              : 
   medium                : 
-  twitter               : 
+  twitter               : "RachieleBruno"
   youtube               : 
 
 # Site Settings
